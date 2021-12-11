@@ -41,7 +41,6 @@ I'm very electric, I have to do things fast, everything "light", I'm very excite
 
 
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amonteirom96&show_icons=true&theme=gotham" alt="amonteirom96" />
  <div align="center">
   <a href="amonteirom96.github.io" target = "_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amonteirom96&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
