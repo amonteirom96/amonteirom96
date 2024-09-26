@@ -15,7 +15,7 @@ I'm very electric, I have to do things fast, everything "light", I'm very excite
 - 💼 any freelance work? do reach, [email](mailto:amonteirom96@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
